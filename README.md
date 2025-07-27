@@ -1,5 +1,7 @@
 # 📊 Bitcoin Sentiment & Trader Performance Analysis
 
+Google Drive Link - https://drive.google.com/drive/folders/1JrVhKAcGZ18-MR84Mt7VK8aRF85Kr7WM?usp=sharing
+
 ## 🧠 Objective
 This project explores the **relationship between Bitcoin market sentiment** (measured via the Fear & Greed Index) and **trader performance metrics** from historical trade data on the Hyperliquid platform. The goal is to derive **actionable insights** and develop **sentiment-aware trading strategies** that improve risk management and returns.
 
